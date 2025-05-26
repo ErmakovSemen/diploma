@@ -1,2 +1,2 @@
 # diploma
-A/B testing on data from surveys
+A/B testing on data from surveys.
